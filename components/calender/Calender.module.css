@@ -1,0 +1,9 @@
+.calender{
+    height: 36vh;
+    width: 100%;
+    background-color: #F1F6FC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+}

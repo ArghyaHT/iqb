@@ -1,7 +1,8 @@
+
 import SignIn from '@/components/authentification/SignIn'
 import React from 'react'
 
-const signin = () => {
+const signup = () => {
   return (
     <>
     <SignIn/>
@@ -9,4 +10,4 @@ const signin = () => {
   )
 }
 
-export default signin
+export default signup

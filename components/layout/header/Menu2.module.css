@@ -7,6 +7,7 @@
     justify-content: space-between;
     align-items: center;
     padding-inline: 8%;
+    cursor: pointer;
 }
 
 .menu div:nth-child(1){
@@ -43,6 +44,7 @@
     flex-direction: column;
     gap: .5rem;
 }
+
 
 .menu_category div:nth-child(1){
     display: flex;
